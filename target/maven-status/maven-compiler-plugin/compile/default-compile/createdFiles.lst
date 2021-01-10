@@ -1,0 +1,5 @@
+me\theditor\spigot\api\commands\TetraConsumer.class
+me\theditor\spigot\api\listeners\CoreListener.class
+me\theditor\spigot\api\commands\SubCommand.class
+me\theditor\spigot\api\commands\CoreCommand.class
+me\theditor\spigot\api\utils\Config.class
